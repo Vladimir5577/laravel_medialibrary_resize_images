@@ -17,3 +17,12 @@ Publishing the config file is optional:
 Generate storage link
 
 	$ php artisan storage:link
+
+
+===============================================================================
+
+Testing
+
+Run test
+
+	$ ./vendor/bin/phpunit <name>
