@@ -59,7 +59,7 @@ task('deploy', [
     'artisan:view:clear',
     'artisan:cache:clear',
     'artisan:config:cache',
-//    'artisan:migrate',
+   'artisan:migrate',
     'deploy:symlink',
     // 'php-fpm:restart',
     'deploy:unlock',
