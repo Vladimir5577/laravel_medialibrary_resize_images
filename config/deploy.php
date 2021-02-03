@@ -61,7 +61,7 @@ return [
             'artisan:cache:clear',
             'artisan:config:cache',
             'artisan:migrate',
-            'restart:phpfpm'
+            // 'restart:phpfpm'
         ],
         
         // Deployment is done and live
