@@ -4,7 +4,7 @@
 	<title>Home Page</title>
 </head>
 <body>
-	<h1>Home Page Resize Image</h1>
+	<h1>Home Page 123</h1>
 
 	@if(session('success'))
 		<h1 style="color: green;">{{ session('success') }}</h1>

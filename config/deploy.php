@@ -114,7 +114,7 @@ return [
 
     'hosts' => [
         '62.173.140.14' => [
-            'deploy_path' => '/var/www/html/laravel/test_deploy',
+            'deploy_path' => '/var/www/html/dev/laravel/resize_image',
             'user' => 'dev',
         ],
     ],
